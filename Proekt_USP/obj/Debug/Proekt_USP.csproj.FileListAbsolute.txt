@@ -1,0 +1,15 @@
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\bin\Debug\Proekt_USP.exe.config
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\bin\Debug\Proekt_USP.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\bin\Debug\Proekt_USP.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Form1.resources
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Properties.Resources.resources
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.csproj.GenerateResource.Cache
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.exe
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.pdb
+c:\users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Form2.resources
+C:\Users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Form3.resources
+C:\Users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Form4.resources
+C:\Users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\obj\Debug\Proekt_USP.Form5.resources
+C:\Users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\bin\Debug\DB_proekt_usp.mdf
+C:\Users\viktor\documents\visual studio 2012\Projects\Proekt_USP\Proekt_USP\bin\Debug\DB_proekt_usp_log.ldf
